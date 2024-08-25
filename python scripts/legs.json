@@ -1,0 +1,6 @@
+[
+    {'executions': [
+            {'id': '66018308-c809-43fa-933d-4b4a5e2a81e0', 'price': '7.25000000', 'quantity': '2.00000', 'settlement_date': '2024-03-26', 'timestamp': '2024-03-25T13: 58: 32.362000Z'
+            }
+        ], 'id': '66018307-053d-46ce-bb51-5a1f020fa464', 'option': 
+        'https: //api.robinhood.com/options/instruments/7425e247-aac8-4813-868f-323692817a69/', 'position_effect': 'close', 'ratio_quantity': 1, 'side': 'buy', 'expiration_date': '2024-03-28', 'strike_price': '182.5000', 'option_type': 'put', 'long_strategy_code': '7425e247-aac8-4813-868f-323692817a69_L1', 'short_strategy_code': '7425e247-aac8-4813-868f-323692817a69_S1'}, {'executions': [{'id': '66018308-8e28-4613-8247-53af73495183', 'price': '11.30000000', 'quantity': '2.00000', 'settlement_date': '2024-03-26', 'timestamp': '2024-03-25T13:58:32.362000Z'}], 'id': '66018307-52ef-43ea-b7f2-2139b51c01d7', 'option': 'https://api.robinhood.com/options/instruments/4c5e6dd4-c030-4a3e-a7dc-00b7b76daf3e/', 'position_effect': 'close', 'ratio_quantity': 1, 'side': 'sell', 'expiration_date': '2024-03-28', 'strike_price': '187.5000', 'option_type': 'put', 'long_strategy_code': '4c5e6dd4-c030-4a3e-a7dc-00b7b76daf3e_L1', 'short_strategy_code': '4c5e6dd4-c030-4a3e-a7dc-00b7b76daf3e_S1'}]
